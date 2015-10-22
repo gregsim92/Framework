@@ -1,0 +1,22 @@
+h1 {
+	padding: 20px;
+	font-size: 44px;
+}
+
+.profile {
+	float: left;
+	height: 120px;
+	width: 50%;
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+
+.profile_pic {
+	float: left;
+	padding: 10px;
+}
+
+.buttons {
+	float: left;
+	margin: 5px;
+}
