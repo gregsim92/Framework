@@ -1,0 +1,45 @@
+
+h1 {
+	margin:20px;
+}
+
+.container {
+	width: 95%;
+	max-width: 100%;
+	margin:	auto;
+}
+
+.link {
+	padding: 13px;
+    font-size: 25px;
+    font-style: italic;
+
+}
+
+.sidebar{
+	float: left;
+	height: 600px;
+	width: 20%;
+	border: 1px solid;
+	border-color: black;
+}
+		
+.words {
+    float: right;
+    width: 60%;
+    margin-right: 200px;
+}
+
+.box {
+	float: right;
+	text-align: center;
+    height: 150px;
+    width: 150px;
+    margin: 100px;
+    border: 1px solid black
+
+}
+
+.bears {
+	text-align: center;
+}
